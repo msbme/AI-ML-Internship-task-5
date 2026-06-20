@@ -1,0 +1,26 @@
+================================================================================
+BIOMEDICAL ENGINEERING DEPARTMENT: RADIOLOGY LAB EQUIPMENT MANUAL
+================================================================================
+
+1. MAGNETIC RESONANCE IMAGING (MRI) SYSTEMS
+- Overview: MRI scanners utilize high-strength magnetic fields (typically 1.5T or 3.0T) and radiofrequency (RF) pulses to image anatomical structures.
+- Static Magnetic Field Safety: The superconducting magnet is ALWAYS active, even when the system is powered off or not scanning. Absolutely no ferromagnetic materials (ferrous tools, oxygen tanks, wheel chairs) are permitted inside the magnet room (Zone IV).
+- Cryogen Monitoring: Technicians must check helium liquid levels weekly. Normal operating thresholds must remain above 60%. A sudden drop indicates a potential thermal breakdown or an emergency quench hazard.
+- RF Shielding Integrity: The scan room is encased in a copper Faraday cage to block ambient electromagnetic noise. Bioms verifying artifact complaints must test the RF door seals and fingerstock contacts for wear or structural gaps.
+
+2. COMPUTED TOMOGRAPHY (CT) SCANNERS
+- Overview: CT scanners use a rotating X-ray tube and solid-state detector array mounted on a high-speed gantry to acquire volumetric cross-sectional images.
+- High Voltage & Radiation Safety: The X-ray tube operates under extreme electrical tensions (up to 140 kVp). Before executing internal calibration or opening the gantry housing, engineers must isolate main power feeds and check zero voltage state. 
+- Brush and Slip Ring Maintenance: The continuous rotation relies on conductive slip rings to transfer power and data. Carbon dust accumulation from wear must be vacuumed out bi-monthly using non-static equipment to prevent high-voltage arcing errors.
+- Gantry Alignment Calibration: Minor mechanical offsets lead to spatial resolution loss and ring artifacts. Laser alignment markers and phantom validation sweeps must be cross-calibrated quarterly.
+
+3. DIGITAL RADIOGRAPHY (DR) X-RAY MACHINES
+- Overview: Fixed and mobile X-ray units produce ionizing radiation to capture structural projections using flat-panel digital detectors.
+- Collimator Performance: The light-field collimator restricts the X-ray beam to the region of interest, minimizing unnecessary patient dose. Regulatory compliance dictates that the light-to-radiation field alignment must match within +/- 2% of the source-to-image distance (SID).
+- Flat-Panel Detector (FPD) Handling: Digital detectors are sensitive wireless or tethered assets. Dropping a detector can fracture the internal cesium iodide (CsI) scintillator layer or thin-film transistor (TFT) array, requiring full replacement. Never subject plates to weights exceeding rated load specifications.
+- Filament Pre-heat Calibration: If the tube filament current is uncalibrated, exposures will trigger over-current faults or fail to emit the correct milliampere-seconds (mAs), causing underexposed, noisy images.
+
+4. MEDICAL ULTRASOUND TRANSDUCERS
+- Overview: Ultrasound systems emit high-frequency acoustic waves via piezoelectric crystals housed in handheld transducers to map soft tissue boundaries.
+- Transducer Care and Disinfection: Piezoelectric elements are highly fragile. Dropping a probe head cracks the acoustic lens, causing immediate blind spots in the sector scan field. Transducers must be cleaned with approved non-alcohol chemical wipes; soaking in unapproved solutions degrades the protective outer bonding membrane.
+- Electrical Leakage Testing: Because ultrasound probes directly contact patient skin, biomedical engineers must conduct electrical safety testing (EST) annually to measure leakage currents, ensuring insulation layers have not broken down from chemical wear.
